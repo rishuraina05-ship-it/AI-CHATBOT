@@ -25,3 +25,6 @@ This is an AI-powered chatbot that generates intelligent and context-aware respo
 
 ## Use Case
 This project demonstrates building real-world AI applications using modern LLMs and deploying them with a simple UI.
+
+## Demo
+![Chatbot Screenshot](screenshot.png)
